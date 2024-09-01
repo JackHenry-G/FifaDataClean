@@ -1,14 +1,3 @@
-This program was written and tested on windows 10.
-
-You will need to install the 'matplotlib.pyplot' and 'pandas' libraries. For how to do so, please see below.
-
-To install 'matplotlib.pyplot' library:
-
-	python -m pip install -U pip
-	python -m pip install -U matplotlib
-
-To install 'pandas' library:
-
-	pip install pandas
-
-Also ensure fifa_cleaned.csv is saved in the same directory as main.py
+pandas~=2.2.2
+matplotlib~=3.9.2
+numpy~=2.0.2
