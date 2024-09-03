@@ -1,4 +1,4 @@
-from main import display_menu
+from src.main import display_menu
 
 def get_category_choice(intro_message, valid_categories):
     """
